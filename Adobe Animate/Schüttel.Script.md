@@ -1,4 +1,4 @@
-# Schnee Script
+# Schüttel Script
 
 ## Auf der Bühne
 
